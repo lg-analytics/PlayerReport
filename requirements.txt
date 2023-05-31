@@ -1,0 +1,5 @@
+shinyswatch
+openpyxl
+pandas
+matplotlib
+pathlib
